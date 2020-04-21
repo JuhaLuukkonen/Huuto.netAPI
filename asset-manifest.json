@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Huuto.netAPI/static/css/main.56b22779.chunk.css",
+    "main.js": "/Huuto.netAPI/static/js/main.c6831010.chunk.js",
+    "main.js.map": "/Huuto.netAPI/static/js/main.c6831010.chunk.js.map",
+    "runtime-main.js": "/Huuto.netAPI/static/js/runtime-main.ebce91d5.js",
+    "runtime-main.js.map": "/Huuto.netAPI/static/js/runtime-main.ebce91d5.js.map",
+    "static/js/2.6df93186.chunk.js": "/Huuto.netAPI/static/js/2.6df93186.chunk.js",
+    "static/js/2.6df93186.chunk.js.map": "/Huuto.netAPI/static/js/2.6df93186.chunk.js.map",
+    "index.html": "/Huuto.netAPI/index.html",
+    "precache-manifest.67aef3ea6f0d4d21b6737bb74708c339.js": "/Huuto.netAPI/precache-manifest.67aef3ea6f0d4d21b6737bb74708c339.js",
+    "service-worker.js": "/Huuto.netAPI/service-worker.js",
+    "static/css/main.56b22779.chunk.css.map": "/Huuto.netAPI/static/css/main.56b22779.chunk.css.map",
+    "static/js/2.6df93186.chunk.js.LICENSE.txt": "/Huuto.netAPI/static/js/2.6df93186.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Huuto.netAPI/static/media/0käsi.b63f449e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebce91d5.js",
+    "static/js/2.6df93186.chunk.js",
+    "static/css/main.56b22779.chunk.css",
+    "static/js/main.c6831010.chunk.js"
+  ]
+}
